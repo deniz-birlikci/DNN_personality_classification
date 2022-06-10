@@ -115,8 +115,3 @@ Funny Observations
 **Observation 1:** If the text includes profanity, the network classifies the person as ‘Extraverted’. Take a text from any introverted subreddit, add 8–9 ‘fuck’s at the end of the post, and **voilà,** in the eyes of the network, you have an extraverted individual.
 
 **Observation 2:** For the (Thinking vs Feeling) classification, the model is very sensitive to the word ‘love’. It is not sensitive to ‘laugh’, or ‘cry’, or ‘emotions’, but add a couple of ‘love’s at the end of the post, and **voilà,** in the eyes of the network, you have a very emotional individual.
-
-Code on Github
-==============
-
-If you wish to experiment with this code on your own, feel free to check out [here](https://github.com/mdbirlikci/DNN_personality_classification).
